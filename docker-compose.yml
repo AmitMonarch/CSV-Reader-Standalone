@@ -1,6 +1,6 @@
 services:
   frontend:
-    build: ./csv-upload-app
+    build: ./csv-uploader
     ports:
       - "3000:3000"
     depends_on:

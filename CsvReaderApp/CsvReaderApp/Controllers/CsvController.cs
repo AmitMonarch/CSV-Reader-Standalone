@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
+using System.Linq;
 using System.Threading.Tasks;
 
 namespace CsvApi.Controllers
@@ -28,7 +29,22 @@ namespace CsvApi.Controllers
                 records.AddRange(csv.GetRecords<CsvRecord>());
             }
 
-            return Ok(records); // Returns extracted data to the frontend
+            var groupedRecords = records
+                .GroupBy(record => record.Category)
+                .Select(group => new GroupedCsvRecord
+                {
+                    Category = group.Key,
+                    Names = group.Select(record => record.Name).ToList()
+                })
+                .ToList();
+
+            return Ok(groupedRecords); // Returns grouped data to the frontend
         }
+    }
+
+    public class GroupedCsvRecord
+    {
+        public string Category { get; set; }
+        public List<string> Names { get; set; }
     }
 }

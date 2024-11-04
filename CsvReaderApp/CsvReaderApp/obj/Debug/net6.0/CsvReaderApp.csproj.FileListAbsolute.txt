@@ -64,3 +64,4 @@ E:\Work_Reference\User_Stories\Argonauts\232335\CSV-Reader-Standalone\CsvReaderA
 E:\Work_Reference\User_Stories\Argonauts\232335\CSV-Reader-Standalone\CsvReaderApp\CsvReaderApp\obj\Debug\net6.0\CsvReaderApp.pdb
 E:\Work_Reference\User_Stories\Argonauts\232335\CSV-Reader-Standalone\CsvReaderApp\CsvReaderApp\obj\Debug\net6.0\CsvReaderApp.genruntimeconfig.cache
 E:\Work_Reference\User_Stories\Argonauts\232335\CSV-Reader-Standalone\CsvReaderApp\CsvReaderApp\obj\Debug\net6.0\ref\CsvReaderApp.dll
+E:\Work_Reference\User_Stories\Argonauts\232335\CSV-Reader-Standalone\CsvReaderApp\CsvReaderApp\obj\Debug\net6.0\CsvReaderApp.sourcelink.json
