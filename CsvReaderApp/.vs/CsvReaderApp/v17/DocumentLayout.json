@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\Work_Reference\\User_Stories\\Argonauts\\232335\\CSV-Reader-Standalone\\CsvReaderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|e:\\work_reference\\user_stories\\argonauts\\232335\\csv-reader-standalone\\csvreaderapp\\csvreaderapp\\models\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|solutionrelative:csvreaderapp\\models\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|e:\\work_reference\\user_stories\\argonauts\\232335\\csv-reader-standalone\\csvreaderapp\\csvreaderapp\\controllers\\csvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|solutionrelative:csvreaderapp\\controllers\\csvcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|e:\\work_reference\\user_stories\\argonauts\\232335\\csv-reader-standalone\\csvreaderapp\\csvreaderapp\\models\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|solutionrelative:csvreaderapp\\models\\csvrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F6A2D6D-1699-4610-9CDB-9D65434CA5D1}|CsvReaderApp\\CsvReaderApp.csproj|e:\\work_reference\\user_stories\\argonauts\\232335\\csv-reader-standalone\\csvreaderapp\\csvreaderapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -98,15 +98,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CsvController.cs",
               "DocumentMoniker": "E:\\Work_Reference\\User_Stories\\Argonauts\\232335\\CSV-Reader-Standalone\\CsvReaderApp\\CsvReaderApp\\Controllers\\CsvController.cs",
               "RelativeDocumentMoniker": "CsvReaderApp\\Controllers\\CsvController.cs",
               "ToolTip": "E:\\Work_Reference\\User_Stories\\Argonauts\\232335\\CSV-Reader-Standalone\\CsvReaderApp\\CsvReaderApp\\Controllers\\CsvController.cs",
               "RelativeToolTip": "CsvReaderApp\\Controllers\\CsvController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-28T09:04:23.839Z"
+              "WhenOpened": "2024-10-28T09:04:23.839Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -122,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CsvRecord.cs",
               "DocumentMoniker": "E:\\Work_Reference\\User_Stories\\Argonauts\\232335\\CSV-Reader-Standalone\\CsvReaderApp\\CsvReaderApp\\Models\\CsvRecord.cs",
               "RelativeDocumentMoniker": "CsvReaderApp\\Models\\CsvRecord.cs",
               "ToolTip": "E:\\Work_Reference\\User_Stories\\Argonauts\\232335\\CSV-Reader-Standalone\\CsvReaderApp\\CsvReaderApp\\Models\\CsvRecord.cs",
               "RelativeToolTip": "CsvReaderApp\\Models\\CsvRecord.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T06:11:30.496Z",
               "EditorCaption": ""
