@@ -1,0 +1,14 @@
+services:
+  frontend:
+    build: ./csv-upload-app
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+  backend:
+    build: ./CsvReaderApp
+    ports:
+      - "7174:80"
+    environment:
+      ASPNETCORE_URLS: "http://+:80"
